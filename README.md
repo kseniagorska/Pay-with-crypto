@@ -1,5 +1,5 @@
 # Pay your tech talent in crypto
-Fintech Finder-  an application that its customers can use to find fintech professionals from among a list of candidates, hire them, and pay them. The application leverages Ethereum blockchain network in order to enable your customers to instantly pay the fintech professionals whom they hire with cryptocurrency.
+Fintech Finder-  an application that its customers can use to find fintech professionals from among a list of candidates, hire them, and pay them. The application leverages Ethereum blockchain network in order to enable its customers to instantly pay the fintech professionals whom they hire with cryptocurrency.
 
 # Technology
 ## Technology
@@ -64,13 +64,16 @@ Etherscan - receiver's address incoming transaction
 
 ![image3](Images/etherscan_receiver.png)
 
-For a better overview of how the application works, please refer to the screencast included in this repo.
 
 ---
 
 Etherscan -  transaction details
 
 ![image4](Images/etherscan_transaction.png)
+
+---
+
+For a better overview of how the application works, please refer to the screencast included in this repo.
 
 ## Contributors
 Brought to you by Ksenia Gorska
